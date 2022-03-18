@@ -1,11 +1,16 @@
-<h2 align="center">👋 Hello! This MingJianL's page.</h2>
+<h2 align="center">👋 Hello! This is MingJianL's page.</h2>
 <p align="center">
   <a href="https://https://www.zhihu.com/people/matrix200">zhihu</a> •
   <a href="https://github.com/matrixgame2018">Github</a> •
   <a href="https://mingjianl.com">CV</a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrixgame2018)](https://github.com/matrixgame2018/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matrixgame2018&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrixgame2018&layout=compact&show_icons=true&theme=dark)
+
  📊 **Weekly development breakdown**
+stats)
 <!--START_SECTION:waka-->
 - 👋 Hi, I’m @matrixgame2018
 - 👀 I’m interested in ...
