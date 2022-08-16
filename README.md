@@ -13,10 +13,10 @@
 stats)
 <!--START_SECTION:waka-->
 - 👋 Hi, I’m @matrixgame2018
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in RGB-Thermal\RGB-Depth\RGB-Flow - （multi-modal） Detection \segmentation
+- 🌱 I’m currently learning multi-modal
+- 💞️ I’m looking to collaborate on OpenMMLab
+- 📫 How to reach me 2443434059@qq.com
 
 <!---
 matrixgame2018/matrixgame2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
