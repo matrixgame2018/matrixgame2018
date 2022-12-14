@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! This is MingJianL's page.</h2>
 <p align="center">
-  <a href="https://https://www.ZhiHu.com/people/matrix200">zhihu</a> •
+  <a href="https://https://www.ZhiHu.com/people/matrix200">Zhihu</a> •
   <a href="https://github.com/matrixgame2018">Github</a> •
   <a href="https://mingjianl.com">CV</a>
 </p>
