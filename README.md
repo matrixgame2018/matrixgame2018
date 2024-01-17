@@ -17,7 +17,7 @@ stats)
 - 👀 I’m interested in RGB-Thermal\RGB-Depth\RGB-Flow - （multi-modal） Detection \segmentation
 - 🌱 I’m currently learning multi-modal
 - 💞️ I’m looking to collaborate on OpenMMLab
-- 📫 How to reach me 2443434059@qq.com
+- 📫 How to reach me MingJian.liang2000@gmail.com
 
 <!---
 matrixgame2018/matrixgame2018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
